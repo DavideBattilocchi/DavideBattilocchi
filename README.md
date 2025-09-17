@@ -15,4 +15,4 @@ Amo trasformare i dati in informazioni utili, creando analisi, dashboard e scrip
 
 ## 📫 Contatti
 📧 **Email:** davide.battilocchi97@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/davidebattilocchi/
+🔗 **LinkedIn:** [linkedin.com/in/davidebattilocchi](https://linkedin.com/in/davidebattilocchi)
