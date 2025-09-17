@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Ciao, sono Davide Battilocchi  
 
-<!--
-**DavideBattilocchi/DavideBattilocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Analyst & Data Engineer** appassionato di dati e programmazione.  
+Amo trasformare i dati in informazioni utili, creando analisi, dashboard e script automatizzati.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Competenze principali
+- 🐍 **Python**: Pandas, NumPy, Matplotlib, scikit-learn  
+- 🗄️ **Database**: MySQL, PostgreSQL (query avanzate, ottimizzazione)  
+- 📊 **Business Intelligence**: Tableau (dashboard interattive)  
+- 🐚 **Bash**: scripting e automazione  
+
+---
+
+## 📫 Contatti
+📧 **Email:** davide.battilocchi97@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/davidebattilocchi/
