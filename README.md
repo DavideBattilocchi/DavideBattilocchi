@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Davide Battilocchi  
 
-💻 **Data Analyst & Data Engineer** appassionato di dati e programmazione.  
+💻 **Database Administrator & Data Engineer** appassionato di dati e programmazione.  
 Amo trasformare i dati in informazioni utili, creando analisi, dashboard e script automatizzati.  
 
 ---
